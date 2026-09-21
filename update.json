@@ -1,0 +1,9 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "htmlRevision": 3,
+  "apkUrl": "",
+  "htmlUrl": "https://raw.githubusercontent.com/ariessocia04-rgb/grok-phone-diagnostic/main/index.html",
+  "notes": "Auto-update channel. HTML updates load inside the APK. APK file still sideload from Grok chat until a release asset is attached.",
+  "minSdk": 24
+}
